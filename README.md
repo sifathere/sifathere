@@ -1,6 +1,6 @@
 <h1 align="center">Hey there I'm Sifat</h1>
 <h3 align="center">Technology enthusiast pursuing a degree in CSE. I enjoy coding and breaking down complex problems. Currently working with Python to create meaningful projects while staying curious about what’s next.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3raV4ty5x8Y0T_dpDW0IsX4Of9AQmp9zOFg&s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifathere&label=Profile%20views&color=0e75b6&style=flat" alt="sifathere" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_sifat360_" target="blank"><img src="https://img.shields.io/twitter/follow/_sifat360_?logo=twitter&style=for-the-badge" alt="_sifat360_" /></a> </p>
